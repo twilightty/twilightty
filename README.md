@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **i love my life**
 
-- 🔑 My PGP key is available [here](https://www.me.twilight.fyi/key.txt)
+- 🔑 My PGP key is available [here](https://me.twilight.fyi/key.txt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
