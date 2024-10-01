@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emladevops&label=Profile%20views&color=0e75b6&style=flat" alt="emladevops" /> </p>
 
-- 🔭 I’m currently working on [TLE](https://github.com/TLEJudge/online-judge)
+- 🔭 I’m a collaborator at [Code MeLy](https://www.facebook.com/code.mely)
 
 - 🌱 I’m currently learning **NestJS**
 
-- 💬 Ask me about **Express and Linux**
+- 💬 Ask me about **Go and Linux**
 
-- 📫 How to reach me **emladevops@protonmail.com**
+- 📫 How to reach me **me@twilight.fyi**
 
 - ⚡ Fun fact **i love my life**
 
-- 🔑 My PGP key is available [here](https://www.kirbee.tech/key.txt)
+- 🔑 My PGP key is available [here](https://www.me.twilight.fyi/key.txt)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
